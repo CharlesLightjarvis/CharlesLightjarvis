@@ -24,5 +24,5 @@ I love building practical projects to improve my skills and help others learn.
 - 🎓 `Zetta` – Training platform for students
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlesLightjarvis&show_icons=true)
 
