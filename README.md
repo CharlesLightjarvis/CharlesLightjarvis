@@ -31,5 +31,5 @@ I love building practical projects to improve my skills and help others learn.
 - Tools: Git, Docker, Linux
 
 ## 📌 Featured Projects
-- 🚀 `upgrade-skills-projects` – Personal hands-on projects to level up my skills
+- 🚀 `skills-up-projects` – Personal hands-on projects to level up my skills
 - 🎓 `Zetta` – Training platform for students
