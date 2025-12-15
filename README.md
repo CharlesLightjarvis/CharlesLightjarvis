@@ -23,6 +23,7 @@ I love building practical projects to improve my skills and help others learn.
 - 🚀 `upgrade-skills-projects` – Personal hands-on projects to level up my skills
 - 🎓 `Zetta` – Training platform for students
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlesLightjarvis&show_icons=true)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+
 
