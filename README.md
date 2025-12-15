@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Charles
 
-<!--
-**CharlesLightjarvis/CharlesLightjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack web & mobile developer | Trainer | Lifelong learner  
+I ❤ Laravel & 💙 React (Native)  
+And I'm also a German teacher 🇩🇪 😊 
 
-Here are some ideas to get you started:
+This year, I started sharing my journey on social media (TikTok: *https://www.tiktok.com/@venincorse?_r=1&_t=ZM-92FkRK5GkcG*)  
+I love building practical projects to improve my skills and help others learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Working on personal skill-up projects
+- ⚡ Passionate about simple, practical, and clear solutions
+- 🌱 Exploring new technologies, patterns, and frameworks
+
+## 🛠 Tech Stack
+- Backend: Laravel, PHP
+- Frontend: React (Tanstack), TypeScript
+- Mobile: React Native / Expo
+- State Management: Zustand
+- Tools: Git, Docker, Linux
+
+## 📌 Featured Projects
+- 🚀 `upgrade-skills-projects` – Personal hands-on projects to level up my skills
+- 🎓 `Zetta` – Training platform for students
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
